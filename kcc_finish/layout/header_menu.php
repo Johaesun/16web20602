@@ -7,7 +7,7 @@
 		</h1>			
 		<div id="site_gnb">	
 			<ul class="gnb_menu">
-			<li><a href="#">로그인</a></li>
+			<li><a href="../kcc_form/login.php">로그인</a></li>
 			<li><a href="../kcc_form/sub1.php">회원가입</a></li>
 			<li><a href="#">사이트맵</a></li>
 			</ul>
